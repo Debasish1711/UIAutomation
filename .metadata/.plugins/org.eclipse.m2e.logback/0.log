@@ -1,0 +1,18 @@
+2023-03-16 04:59:07,893 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 04:59:36,043 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Practice2:JavaTPoint1:0.0.1-SNAPSHOT @ C:\AutomationWorkspace\UIAutomation\JavaTPoint1\pom.xml.
+2023-03-16 04:59:39,369 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-16 04:59:39,371 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AutomationWorkspace\UIAutomation\JavaTPoint1\src\main\resources
+2023-03-16 04:59:39,387 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-16 04:59:39,388 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AutomationWorkspace\UIAutomation\JavaTPoint1\src\test\resources
+2023-03-16 04:59:41,235 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-16 04:59:41,238 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AutomationWorkspace\UIAutomation\JavaTPoint1\src\main\resources
+2023-03-16 04:59:41,248 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-16 04:59:41,250 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AutomationWorkspace\UIAutomation\JavaTPoint1\src\test\resources
+2023-03-16 05:02:20,932 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-16 05:02:20,932 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AutomationWorkspace\UIAutomation\JavaTPoint1\src\main\resources
+2023-03-16 05:02:20,933 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-16 05:02:20,933 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AutomationWorkspace\UIAutomation\JavaTPoint1\src\test\resources
+2023-03-16 05:02:21,994 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-16 05:02:21,994 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AutomationWorkspace\UIAutomation\JavaTPoint1\src\main\resources
+2023-03-16 05:02:21,995 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-16 05:02:21,995 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AutomationWorkspace\UIAutomation\JavaTPoint1\src\test\resources
